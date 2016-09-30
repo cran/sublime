@@ -1,0 +1,14 @@
+c487f19aee107a3e4ed28332c05a8ade *DESCRIPTION
+8cfc86797996a415d16584b2e405cbfe *NAMESPACE
+68b7ff24b708aa5a03539c3194fdc02a *R/SuBLIME_model.R
+d701615f929f33f8bd33d6ae1e860cd9 *R/SuBLIME_prediction.R
+3eecd47b07a391d5c5a9fcd05429e072 *R/normalize.R
+877cf49e153465ac7a6f75c680f905bb *R/voxel_select.R
+e028ccfd0d9b4782772d0de97f98e41f *data/SuBLIME_model.rda
+c43a6c6f80fddabc43eef07a3c711497 *inst/CITATION
+55333b1d162fce1244f70d3d29c656de *man/SuBLIME-package.Rd
+0192b8d4d2aadc757dafbb3bf52e55e3 *man/SuBLIME_model.Rd
+dbcb40bde6d457cb23efad37df35e268 *man/SuBLIME_prediction.Rd
+90d72b8aad14eb3c643a8b350fcd53e1 *man/download_data.Rd
+0d6597b0f1f80657e329014620f37f5e *man/normalize.Rd
+67c86ff5d8d60a1d38b0d50b10f4f802 *man/voxel_select.Rd
